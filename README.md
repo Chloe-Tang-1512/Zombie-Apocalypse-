@@ -1,1 +1,1 @@
-This is part 1 of my first Python program and is written at the stage when I was still an amateur at Python programming. Because of that, if you actually read the code, you will find that there are many ways that it could be improved.
+This is part 1 of my first Python program and is written at the stage when I was still an amateur at Python programming. Because of that, if you actually read the code, you will find that there are many ways that it could be improved. I am still working on part 2.
